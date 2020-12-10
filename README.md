@@ -1,1 +1,1 @@
-#Discord bot for 4S community and team
+# Discord bot for 4S community and team
